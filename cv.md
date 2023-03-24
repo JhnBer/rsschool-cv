@@ -56,9 +56,9 @@ solution(dishes) = [["Cheese", "Quesadilla", "Sandwich"],
 
 
 При условии, что:
-1 ≤ dishes.length ≤ 500,
-2 ≤ dishes[i].length ≤ 10,
-1 ≤ dishes[i][j].length ≤ 50
+* 1 ≤ dishes.length ≤ 500,
+* 2 ≤ dishes[i].length ≤ 10,
+* 1 ≤ dishes[i][j].length ≤ 50
 
 Вот пример моего решения:
 ```
